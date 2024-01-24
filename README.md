@@ -1,16 +1,12 @@
 # Hui Wang
----
 
 ## Current Learning
----
 - deeplearning
 
 ## Steam ID
----
 155005201
 
 ### Game History
----
 - Albion
 - dota2
 - ⚪
