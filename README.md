@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=IdleIdiot&color=green)
-# Hui Wang
 
+# Hui Wang
+![](https://komarev.com/ghpvc/?username=IdleIdiot&color=green)
 ## Current Learning
 - deeplearning
 - PyTorch
