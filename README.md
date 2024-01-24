@@ -2,6 +2,8 @@
 
 ## Current Learning
 - deeplearning
+- PyTorch
+- LLM
 
 ## Skills
 - Python
