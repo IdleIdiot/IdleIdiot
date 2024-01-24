@@ -3,19 +3,24 @@
 ## Current Learning
 - deeplearning
 
+## Skills
+- Python
+- English(CET-4,538)
+
 ## Steam ID
 155005201
 
 ### Game History
 - Albion
-- dota2
-- ⚪
+- Dota2
+- Genshin Impact
 - Master of Hunter
 - PUBG
 - DNF
 - Overwatch
 - Dark Soul
 - GTA5
+
 ... ...
 
 
