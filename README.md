@@ -1,4 +1,27 @@
-### Hi there 👋
+# Hui Wang
+---
+
+## Current Learning
+---
+- deeplearning
+
+## Steam ID
+---
+155005201
+
+### Game History
+---
+- Albion
+- dota2
+- ⚪
+- Master of Hunter
+- PUBG
+- DNF
+- Overwatch
+- Dark Soul
+- GTA5
+... ...
+
 
 <!--
 **IdelIdiot/IdelIdiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
