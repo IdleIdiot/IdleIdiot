@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=IdleIdiot&color=green)
 # Hui Wang
 
 ## Current Learning
