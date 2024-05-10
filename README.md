@@ -1,7 +1,11 @@
 
 # Hui Wang
 ![](https://komarev.com/ghpvc/?username=IdleIdiot&color=green)
+
+---
+
 MBTI: INTJ
+
 ## Current Learning
 - Deeplearning
 - PyTorch
