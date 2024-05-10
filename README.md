@@ -1,19 +1,22 @@
 
 # Hui Wang
 ![](https://komarev.com/ghpvc/?username=IdleIdiot&color=green)
+MBTI: INTJ
 ## Current Learning
-- deeplearning
+- Deeplearning
 - PyTorch
 - LLM
+- Fastapi
 
 ## Skills
 - Python
 - English(CET-4,538)
 
-## Steam ID
+## Hobby
+### Steam ID
 155005201
 
-### Game History
+### Games of Interest
 - Albion
 - Dota2
 - Genshin Impact
@@ -21,10 +24,13 @@
 - PUBG
 - DNF
 - Overwatch
-- Dark Soul
+- Dark Soul Series
 - GTA5
-
-... ...
+- Baldur's Gate 3
+- Naraka: Bladepoint
+- Honor of kings
+- LOL
+- Divinity: Original Sin Ⅱ
 
 
 <!--
